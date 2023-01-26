@@ -1,0 +1,6 @@
+openai
+streamlit
+Pillow
+moviepy
+pyttsx3
+requests
